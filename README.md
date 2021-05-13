@@ -71,5 +71,6 @@ The final report includes the following:
 
 ### Observable Trends
 
-- 
-
+- Distribution of players by age is normal with the most common age being "20-24"
+- Highest numbers in "Average purchase per person" can be seen in "35-39". This can be attributed to having higher income as a person ages.
+- The most popular item is also the most profitable item. In most cases, there is a direct relation between profitability and popularity. Should the item prices for "Persuasion" and "Extraction, Quickblade of Trembling Hands" be re-evaluated?
